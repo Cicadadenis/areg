@@ -1,0 +1,12 @@
+inspect
+json
+requests
+telethon
+pytelegrambotapi
+pysqlite
+psutil
+PySocks
+smshuborg
+decimalfp
+pypi-cdecimal
+light-qiwi
